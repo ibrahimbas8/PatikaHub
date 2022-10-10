@@ -1,0 +1,16 @@
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev14CSharpStringMetot\odev14CSharpStringMetot\bin\Debug\net5.0\odev14CSharpStringMetot.exe
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev14CSharpStringMetot\odev14CSharpStringMetot\bin\Debug\net5.0\odev14CSharpStringMetot.deps.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev14CSharpStringMetot\odev14CSharpStringMetot\bin\Debug\net5.0\odev14CSharpStringMetot.runtimeconfig.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev14CSharpStringMetot\odev14CSharpStringMetot\bin\Debug\net5.0\odev14CSharpStringMetot.runtimeconfig.dev.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev14CSharpStringMetot\odev14CSharpStringMetot\bin\Debug\net5.0\odev14CSharpStringMetot.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev14CSharpStringMetot\odev14CSharpStringMetot\bin\Debug\net5.0\ref\odev14CSharpStringMetot.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev14CSharpStringMetot\odev14CSharpStringMetot\bin\Debug\net5.0\odev14CSharpStringMetot.pdb
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev14CSharpStringMetot\odev14CSharpStringMetot\obj\Debug\net5.0\odev14CSharpStringMetot.csproj.AssemblyReference.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev14CSharpStringMetot\odev14CSharpStringMetot\obj\Debug\net5.0\odev14CSharpStringMetot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev14CSharpStringMetot\odev14CSharpStringMetot\obj\Debug\net5.0\odev14CSharpStringMetot.AssemblyInfoInputs.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev14CSharpStringMetot\odev14CSharpStringMetot\obj\Debug\net5.0\odev14CSharpStringMetot.AssemblyInfo.cs
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev14CSharpStringMetot\odev14CSharpStringMetot\obj\Debug\net5.0\odev14CSharpStringMetot.csproj.CoreCompileInputs.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev14CSharpStringMetot\odev14CSharpStringMetot\obj\Debug\net5.0\odev14CSharpStringMetot.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev14CSharpStringMetot\odev14CSharpStringMetot\obj\Debug\net5.0\ref\odev14CSharpStringMetot.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev14CSharpStringMetot\odev14CSharpStringMetot\obj\Debug\net5.0\odev14CSharpStringMetot.pdb
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev14CSharpStringMetot\odev14CSharpStringMetot\obj\Debug\net5.0\odev14CSharpStringMetot.genruntimeconfig.cache

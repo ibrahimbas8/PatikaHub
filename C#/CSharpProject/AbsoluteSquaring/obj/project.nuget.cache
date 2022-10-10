@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iSvUIEEdPhvlvyXGVKpkE7w9Ru2m1ZSI2849noBcAjrqXpAI0g3fHIacq0f+1vevJ/jpeT0ZMFGbtu1/Yru6qQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\basib\\source\\repos\\AbsoluteSquaring\\AbsoluteSquaring.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\basib\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

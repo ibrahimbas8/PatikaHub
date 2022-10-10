@@ -1,0 +1,16 @@
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev1VariablesCSharp\odev1VariablesCSharp\bin\Debug\net5.0\odev1VariablesCSharp.exe
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev1VariablesCSharp\odev1VariablesCSharp\bin\Debug\net5.0\odev1VariablesCSharp.deps.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev1VariablesCSharp\odev1VariablesCSharp\bin\Debug\net5.0\odev1VariablesCSharp.runtimeconfig.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev1VariablesCSharp\odev1VariablesCSharp\bin\Debug\net5.0\odev1VariablesCSharp.runtimeconfig.dev.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev1VariablesCSharp\odev1VariablesCSharp\bin\Debug\net5.0\odev1VariablesCSharp.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev1VariablesCSharp\odev1VariablesCSharp\bin\Debug\net5.0\ref\odev1VariablesCSharp.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev1VariablesCSharp\odev1VariablesCSharp\bin\Debug\net5.0\odev1VariablesCSharp.pdb
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev1VariablesCSharp\odev1VariablesCSharp\obj\Debug\net5.0\odev1VariablesCSharp.csproj.AssemblyReference.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev1VariablesCSharp\odev1VariablesCSharp\obj\Debug\net5.0\odev1VariablesCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev1VariablesCSharp\odev1VariablesCSharp\obj\Debug\net5.0\odev1VariablesCSharp.AssemblyInfoInputs.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev1VariablesCSharp\odev1VariablesCSharp\obj\Debug\net5.0\odev1VariablesCSharp.AssemblyInfo.cs
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev1VariablesCSharp\odev1VariablesCSharp\obj\Debug\net5.0\odev1VariablesCSharp.csproj.CoreCompileInputs.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev1VariablesCSharp\odev1VariablesCSharp\obj\Debug\net5.0\odev1VariablesCSharp.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev1VariablesCSharp\odev1VariablesCSharp\obj\Debug\net5.0\ref\odev1VariablesCSharp.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev1VariablesCSharp\odev1VariablesCSharp\obj\Debug\net5.0\odev1VariablesCSharp.pdb
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev1VariablesCSharp\odev1VariablesCSharp\obj\Debug\net5.0\odev1VariablesCSharp.genruntimeconfig.cache

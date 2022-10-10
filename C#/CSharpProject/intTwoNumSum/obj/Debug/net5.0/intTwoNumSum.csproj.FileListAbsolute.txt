@@ -1,0 +1,16 @@
+C:\Users\basib\source\repos\intTwoNumSum\bin\Debug\net5.0\intTwoNumSum.exe
+C:\Users\basib\source\repos\intTwoNumSum\bin\Debug\net5.0\intTwoNumSum.deps.json
+C:\Users\basib\source\repos\intTwoNumSum\bin\Debug\net5.0\intTwoNumSum.runtimeconfig.json
+C:\Users\basib\source\repos\intTwoNumSum\bin\Debug\net5.0\intTwoNumSum.runtimeconfig.dev.json
+C:\Users\basib\source\repos\intTwoNumSum\bin\Debug\net5.0\intTwoNumSum.dll
+C:\Users\basib\source\repos\intTwoNumSum\bin\Debug\net5.0\ref\intTwoNumSum.dll
+C:\Users\basib\source\repos\intTwoNumSum\bin\Debug\net5.0\intTwoNumSum.pdb
+C:\Users\basib\source\repos\intTwoNumSum\obj\Debug\net5.0\intTwoNumSum.csproj.AssemblyReference.cache
+C:\Users\basib\source\repos\intTwoNumSum\obj\Debug\net5.0\intTwoNumSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basib\source\repos\intTwoNumSum\obj\Debug\net5.0\intTwoNumSum.AssemblyInfoInputs.cache
+C:\Users\basib\source\repos\intTwoNumSum\obj\Debug\net5.0\intTwoNumSum.AssemblyInfo.cs
+C:\Users\basib\source\repos\intTwoNumSum\obj\Debug\net5.0\intTwoNumSum.csproj.CoreCompileInputs.cache
+C:\Users\basib\source\repos\intTwoNumSum\obj\Debug\net5.0\intTwoNumSum.dll
+C:\Users\basib\source\repos\intTwoNumSum\obj\Debug\net5.0\ref\intTwoNumSum.dll
+C:\Users\basib\source\repos\intTwoNumSum\obj\Debug\net5.0\intTwoNumSum.pdb
+C:\Users\basib\source\repos\intTwoNumSum\obj\Debug\net5.0\intTwoNumSum.genruntimeconfig.cache

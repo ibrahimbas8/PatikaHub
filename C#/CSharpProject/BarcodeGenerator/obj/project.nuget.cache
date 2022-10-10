@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "kvhE4hUdvMi7w1+u6Cttrvc8kQ/4j5F4vbQFddQ5EwINFk/wpQrkZ3ir+QL2jHwMBEw00RElbgkIhNWm+xx+iQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\basib\\OneDrive\\Masaüstü\\kodlama\\PATİKA\\C#\\CSharpProject\\BarcodeGenerator\\BarcodeGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\basib\\.nuget\\packages\\barcodelib\\2.4.0\\barcodelib.2.4.0.nupkg.sha512",
+    "C:\\Users\\basib\\.nuget\\packages\\honeywell.barcodereader\\1.32.7.10\\honeywell.barcodereader.1.32.7.10.nupkg.sha512",
+    "C:\\Users\\basib\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\basib\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\basib\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\basib\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512",
+    "C:\\Users\\basib\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Honeywell.BarcodeReader 1.32.7.10' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Honeywell.BarcodeReader",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

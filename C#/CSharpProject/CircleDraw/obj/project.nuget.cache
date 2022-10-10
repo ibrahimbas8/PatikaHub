@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CYeaBNqEjZpFn7yTEpnBGt9Iynzga/hrWluO7LvlLEqTOlbPw1HTxJAhtzD7jsNoo3F9ZA4i9veJ/CSHcTtCsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\basib\\OneDrive\\Masaüstü\\kodlama\\C#Project\\CircleDraw\\CircleDraw.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\basib\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

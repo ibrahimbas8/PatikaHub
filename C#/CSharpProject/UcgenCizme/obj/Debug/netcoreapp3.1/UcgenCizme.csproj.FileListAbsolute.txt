@@ -1,0 +1,14 @@
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\UcgenCizme\bin\Debug\netcoreapp3.1\UcgenCizme.exe
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\UcgenCizme\bin\Debug\netcoreapp3.1\UcgenCizme.deps.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\UcgenCizme\bin\Debug\netcoreapp3.1\UcgenCizme.runtimeconfig.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\UcgenCizme\bin\Debug\netcoreapp3.1\UcgenCizme.runtimeconfig.dev.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\UcgenCizme\bin\Debug\netcoreapp3.1\UcgenCizme.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\UcgenCizme\bin\Debug\netcoreapp3.1\UcgenCizme.pdb
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\UcgenCizme\obj\Debug\netcoreapp3.1\UcgenCizme.csproj.AssemblyReference.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\UcgenCizme\obj\Debug\netcoreapp3.1\UcgenCizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\UcgenCizme\obj\Debug\netcoreapp3.1\UcgenCizme.AssemblyInfoInputs.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\UcgenCizme\obj\Debug\netcoreapp3.1\UcgenCizme.AssemblyInfo.cs
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\UcgenCizme\obj\Debug\netcoreapp3.1\UcgenCizme.csproj.CoreCompileInputs.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\UcgenCizme\obj\Debug\netcoreapp3.1\UcgenCizme.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\UcgenCizme\obj\Debug\netcoreapp3.1\UcgenCizme.pdb
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\UcgenCizme\obj\Debug\netcoreapp3.1\UcgenCizme.genruntimeconfig.cache

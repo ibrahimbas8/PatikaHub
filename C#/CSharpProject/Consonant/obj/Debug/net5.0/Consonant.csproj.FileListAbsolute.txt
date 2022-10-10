@@ -1,0 +1,16 @@
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\Consonant\bin\Debug\net5.0\Consonant.exe
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\Consonant\bin\Debug\net5.0\Consonant.deps.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\Consonant\bin\Debug\net5.0\Consonant.runtimeconfig.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\Consonant\bin\Debug\net5.0\Consonant.runtimeconfig.dev.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\Consonant\bin\Debug\net5.0\Consonant.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\Consonant\bin\Debug\net5.0\ref\Consonant.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\Consonant\bin\Debug\net5.0\Consonant.pdb
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\Consonant\obj\Debug\net5.0\Consonant.csproj.AssemblyReference.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\Consonant\obj\Debug\net5.0\Consonant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\Consonant\obj\Debug\net5.0\Consonant.AssemblyInfoInputs.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\Consonant\obj\Debug\net5.0\Consonant.AssemblyInfo.cs
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\Consonant\obj\Debug\net5.0\Consonant.csproj.CoreCompileInputs.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\Consonant\obj\Debug\net5.0\Consonant.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\Consonant\obj\Debug\net5.0\ref\Consonant.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\Consonant\obj\Debug\net5.0\Consonant.pdb
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\Consonant\obj\Debug\net5.0\Consonant.genruntimeconfig.cache

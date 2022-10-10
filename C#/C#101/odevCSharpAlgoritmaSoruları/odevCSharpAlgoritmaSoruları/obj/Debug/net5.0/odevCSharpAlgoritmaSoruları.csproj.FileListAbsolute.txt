@@ -1,0 +1,16 @@
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odevCSharpAlgoritmaSoruları\odevCSharpAlgoritmaSoruları\bin\Debug\net5.0\odevCSharpAlgoritmaSoruları.exe
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odevCSharpAlgoritmaSoruları\odevCSharpAlgoritmaSoruları\bin\Debug\net5.0\odevCSharpAlgoritmaSoruları.deps.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odevCSharpAlgoritmaSoruları\odevCSharpAlgoritmaSoruları\bin\Debug\net5.0\odevCSharpAlgoritmaSoruları.runtimeconfig.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odevCSharpAlgoritmaSoruları\odevCSharpAlgoritmaSoruları\bin\Debug\net5.0\odevCSharpAlgoritmaSoruları.runtimeconfig.dev.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odevCSharpAlgoritmaSoruları\odevCSharpAlgoritmaSoruları\bin\Debug\net5.0\odevCSharpAlgoritmaSoruları.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odevCSharpAlgoritmaSoruları\odevCSharpAlgoritmaSoruları\bin\Debug\net5.0\ref\odevCSharpAlgoritmaSoruları.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odevCSharpAlgoritmaSoruları\odevCSharpAlgoritmaSoruları\bin\Debug\net5.0\odevCSharpAlgoritmaSoruları.pdb
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odevCSharpAlgoritmaSoruları\odevCSharpAlgoritmaSoruları\obj\Debug\net5.0\odevCSharpAlgoritmaSoruları.csproj.AssemblyReference.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odevCSharpAlgoritmaSoruları\odevCSharpAlgoritmaSoruları\obj\Debug\net5.0\odevCSharpAlgoritmaSoruları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odevCSharpAlgoritmaSoruları\odevCSharpAlgoritmaSoruları\obj\Debug\net5.0\odevCSharpAlgoritmaSoruları.AssemblyInfoInputs.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odevCSharpAlgoritmaSoruları\odevCSharpAlgoritmaSoruları\obj\Debug\net5.0\odevCSharpAlgoritmaSoruları.AssemblyInfo.cs
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odevCSharpAlgoritmaSoruları\odevCSharpAlgoritmaSoruları\obj\Debug\net5.0\odevCSharpAlgoritmaSoruları.csproj.CoreCompileInputs.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odevCSharpAlgoritmaSoruları\odevCSharpAlgoritmaSoruları\obj\Debug\net5.0\odevCSharpAlgoritmaSoruları.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odevCSharpAlgoritmaSoruları\odevCSharpAlgoritmaSoruları\obj\Debug\net5.0\ref\odevCSharpAlgoritmaSoruları.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odevCSharpAlgoritmaSoruları\odevCSharpAlgoritmaSoruları\obj\Debug\net5.0\odevCSharpAlgoritmaSoruları.pdb
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odevCSharpAlgoritmaSoruları\odevCSharpAlgoritmaSoruları\obj\Debug\net5.0\odevCSharpAlgoritmaSoruları.genruntimeconfig.cache

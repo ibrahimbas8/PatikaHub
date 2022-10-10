@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    padding: 150px;
+}
+.logo-center {
+    padding: 20px;
+    position: relative;
+    margin: auto;
+}
+.search {
+    width: 1200px;
+    height: 100px;
+    background-color: lightgray;
+    position: relative;
+    margin: auto; 
+}
+.search-center {
+    width: 400px;
+    height: 100px;
+    position: relative;
+    margin: auto;
+}
+#site-search{
+    width: 400px;
+}
+.container{
+    width: 1200px;
+    height: 100px;
+    margin: auto;     
+    display: grid;
+    grid-template-columns: 425px 250px 525px;
+  }
+  .item-1{
+    background-color: lightseagreen;
+    font-size: 18px;
+  }
+  .item-2{
+    background-color: rgb(20, 146, 140);
+    font-size: 16px;
+  }
+  .item-3{
+    font-size: 14px;
+    background-color: rgb(17, 105, 101);
+  }

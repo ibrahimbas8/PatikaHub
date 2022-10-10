@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OLMkJlStdHJ12WMcDFQ8s4t9vxFFZc9+d0zyUOEAFuRVWp+oC3u06m5M6stf0UPMZfURxS+ThMztRI84NWpHog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\basib\\OneDrive\\Masaüstü\\kodlama\\PATİKA\\C#\\C#Project\\CharacterReplacement\\CharacterReplacement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\basib\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

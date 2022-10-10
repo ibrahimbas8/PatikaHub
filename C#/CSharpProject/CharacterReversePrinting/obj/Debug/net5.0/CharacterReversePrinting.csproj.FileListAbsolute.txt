@@ -1,0 +1,16 @@
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReversePrinting\bin\Debug\net5.0\CharacterReversePrinting.exe
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReversePrinting\bin\Debug\net5.0\CharacterReversePrinting.deps.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReversePrinting\bin\Debug\net5.0\CharacterReversePrinting.runtimeconfig.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReversePrinting\bin\Debug\net5.0\CharacterReversePrinting.runtimeconfig.dev.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReversePrinting\bin\Debug\net5.0\CharacterReversePrinting.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReversePrinting\bin\Debug\net5.0\ref\CharacterReversePrinting.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReversePrinting\bin\Debug\net5.0\CharacterReversePrinting.pdb
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReversePrinting\obj\Debug\net5.0\CharacterReversePrinting.csproj.AssemblyReference.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReversePrinting\obj\Debug\net5.0\CharacterReversePrinting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReversePrinting\obj\Debug\net5.0\CharacterReversePrinting.AssemblyInfoInputs.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReversePrinting\obj\Debug\net5.0\CharacterReversePrinting.AssemblyInfo.cs
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReversePrinting\obj\Debug\net5.0\CharacterReversePrinting.csproj.CoreCompileInputs.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReversePrinting\obj\Debug\net5.0\CharacterReversePrinting.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReversePrinting\obj\Debug\net5.0\ref\CharacterReversePrinting.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReversePrinting\obj\Debug\net5.0\CharacterReversePrinting.pdb
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReversePrinting\obj\Debug\net5.0\CharacterReversePrinting.genruntimeconfig.cache

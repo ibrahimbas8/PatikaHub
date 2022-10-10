@@ -1,0 +1,14 @@
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\OrtalamaHesaplama\bin\Debug\netcoreapp3.1\OrtalamaHesaplama.exe
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\OrtalamaHesaplama\bin\Debug\netcoreapp3.1\OrtalamaHesaplama.deps.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\OrtalamaHesaplama\bin\Debug\netcoreapp3.1\OrtalamaHesaplama.runtimeconfig.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\OrtalamaHesaplama\bin\Debug\netcoreapp3.1\OrtalamaHesaplama.runtimeconfig.dev.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\OrtalamaHesaplama\bin\Debug\netcoreapp3.1\OrtalamaHesaplama.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\OrtalamaHesaplama\bin\Debug\netcoreapp3.1\OrtalamaHesaplama.pdb
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\OrtalamaHesaplama\obj\Debug\netcoreapp3.1\OrtalamaHesaplama.csproj.AssemblyReference.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\OrtalamaHesaplama\obj\Debug\netcoreapp3.1\OrtalamaHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\OrtalamaHesaplama\obj\Debug\netcoreapp3.1\OrtalamaHesaplama.AssemblyInfoInputs.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\OrtalamaHesaplama\obj\Debug\netcoreapp3.1\OrtalamaHesaplama.AssemblyInfo.cs
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\OrtalamaHesaplama\obj\Debug\netcoreapp3.1\OrtalamaHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\OrtalamaHesaplama\obj\Debug\netcoreapp3.1\OrtalamaHesaplama.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\OrtalamaHesaplama\obj\Debug\netcoreapp3.1\OrtalamaHesaplama.pdb
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\OrtalamaHesaplama\obj\Debug\netcoreapp3.1\OrtalamaHesaplama.genruntimeconfig.cache

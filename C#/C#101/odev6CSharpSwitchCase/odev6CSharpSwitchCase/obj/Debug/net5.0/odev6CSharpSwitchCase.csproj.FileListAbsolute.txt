@@ -1,0 +1,15 @@
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev6CSharpSwitchCase\odev6CSharpSwitchCase\bin\Debug\net5.0\odev6CSharpSwitchCase.exe
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev6CSharpSwitchCase\odev6CSharpSwitchCase\bin\Debug\net5.0\odev6CSharpSwitchCase.deps.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev6CSharpSwitchCase\odev6CSharpSwitchCase\bin\Debug\net5.0\odev6CSharpSwitchCase.runtimeconfig.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev6CSharpSwitchCase\odev6CSharpSwitchCase\bin\Debug\net5.0\odev6CSharpSwitchCase.runtimeconfig.dev.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev6CSharpSwitchCase\odev6CSharpSwitchCase\bin\Debug\net5.0\odev6CSharpSwitchCase.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev6CSharpSwitchCase\odev6CSharpSwitchCase\bin\Debug\net5.0\ref\odev6CSharpSwitchCase.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev6CSharpSwitchCase\odev6CSharpSwitchCase\bin\Debug\net5.0\odev6CSharpSwitchCase.pdb
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev6CSharpSwitchCase\odev6CSharpSwitchCase\obj\Debug\net5.0\odev6CSharpSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev6CSharpSwitchCase\odev6CSharpSwitchCase\obj\Debug\net5.0\odev6CSharpSwitchCase.AssemblyInfoInputs.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev6CSharpSwitchCase\odev6CSharpSwitchCase\obj\Debug\net5.0\odev6CSharpSwitchCase.AssemblyInfo.cs
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev6CSharpSwitchCase\odev6CSharpSwitchCase\obj\Debug\net5.0\odev6CSharpSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev6CSharpSwitchCase\odev6CSharpSwitchCase\obj\Debug\net5.0\odev6CSharpSwitchCase.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev6CSharpSwitchCase\odev6CSharpSwitchCase\obj\Debug\net5.0\ref\odev6CSharpSwitchCase.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev6CSharpSwitchCase\odev6CSharpSwitchCase\obj\Debug\net5.0\odev6CSharpSwitchCase.pdb
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev6CSharpSwitchCase\odev6CSharpSwitchCase\obj\Debug\net5.0\odev6CSharpSwitchCase.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "econ90ca1W4QGzVT8ioFSYfdb9nB/2QDSplooXv98nB8n23rEUJ70BlkTCdo6fk5IiurBmEjYgsyDpL/ldOOzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\basib\\OneDrive\\Masaüstü\\kodlama\\C#Project\\OrtalamaHesaplama\\OrtalamaHesaplama.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\basib\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

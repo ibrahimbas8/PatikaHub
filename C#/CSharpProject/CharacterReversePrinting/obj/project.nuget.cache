@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UzNk1OQvf+X2c0lL6tErwTph2mSZW/qsQn+NEDd54N2uiM9Lwb4Lx1UrQmnJAXMICjVgNnj83TJv/rs9KXlZmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\basib\\OneDrive\\Masaüstü\\kodlama\\PATİKA\\C#\\C#Project\\CharacterReversePrinting\\CharacterReversePrinting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\basib\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

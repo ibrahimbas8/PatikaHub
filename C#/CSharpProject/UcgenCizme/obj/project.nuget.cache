@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SxZpVWxs2DmkaBLySXxauDKa5oRZTk9cA0WuWTjsb3A506QJiAHW54ihFdqX5a1AEZnMGCjxT+1isk+xCbVq4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\basib\\OneDrive\\Masaüstü\\kodlama\\C#Project\\UcgenCizme\\UcgenCizme.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\basib\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

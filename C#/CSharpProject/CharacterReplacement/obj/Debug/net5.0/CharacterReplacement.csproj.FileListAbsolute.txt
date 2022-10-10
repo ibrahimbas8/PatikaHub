@@ -1,0 +1,16 @@
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReplacement\bin\Debug\net5.0\CharacterReplacement.exe
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReplacement\bin\Debug\net5.0\CharacterReplacement.deps.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReplacement\bin\Debug\net5.0\CharacterReplacement.runtimeconfig.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReplacement\bin\Debug\net5.0\CharacterReplacement.runtimeconfig.dev.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReplacement\bin\Debug\net5.0\CharacterReplacement.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReplacement\bin\Debug\net5.0\ref\CharacterReplacement.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReplacement\bin\Debug\net5.0\CharacterReplacement.pdb
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReplacement\obj\Debug\net5.0\CharacterReplacement.csproj.AssemblyReference.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReplacement\obj\Debug\net5.0\CharacterReplacement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReplacement\obj\Debug\net5.0\CharacterReplacement.AssemblyInfoInputs.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReplacement\obj\Debug\net5.0\CharacterReplacement.AssemblyInfo.cs
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReplacement\obj\Debug\net5.0\CharacterReplacement.csproj.CoreCompileInputs.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReplacement\obj\Debug\net5.0\CharacterReplacement.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReplacement\obj\Debug\net5.0\ref\CharacterReplacement.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReplacement\obj\Debug\net5.0\CharacterReplacement.pdb
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\CharacterReplacement\obj\Debug\net5.0\CharacterReplacement.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\AreaCalc\bin\Debug\net5.0\AreaCalc.exe
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\AreaCalc\bin\Debug\net5.0\AreaCalc.deps.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\AreaCalc\bin\Debug\net5.0\AreaCalc.runtimeconfig.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\AreaCalc\bin\Debug\net5.0\AreaCalc.runtimeconfig.dev.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\AreaCalc\bin\Debug\net5.0\AreaCalc.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\AreaCalc\bin\Debug\net5.0\ref\AreaCalc.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\AreaCalc\bin\Debug\net5.0\AreaCalc.pdb
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\AreaCalc\obj\Debug\net5.0\AreaCalc.csproj.AssemblyReference.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\AreaCalc\obj\Debug\net5.0\AreaCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\AreaCalc\obj\Debug\net5.0\AreaCalc.AssemblyInfoInputs.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\AreaCalc\obj\Debug\net5.0\AreaCalc.AssemblyInfo.cs
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\AreaCalc\obj\Debug\net5.0\AreaCalc.csproj.CoreCompileInputs.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\AreaCalc\obj\Debug\net5.0\AreaCalc.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\AreaCalc\obj\Debug\net5.0\ref\AreaCalc.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\AreaCalc\obj\Debug\net5.0\AreaCalc.pdb
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#Project\AreaCalc\obj\Debug\net5.0\AreaCalc.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5sTWYzci9gT1kQLxo9+oFbnxxylhi9nZVYSb7N+3l1DO4xEi9hGq48QbKca6zBod5xmBkBshBHftKDypTOErIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\basib\\OneDrive\\Masaüstü\\kodlama\\PATİKA\\C#\\C#101\\Project2ToDo\\Project2ToDo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\basib\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

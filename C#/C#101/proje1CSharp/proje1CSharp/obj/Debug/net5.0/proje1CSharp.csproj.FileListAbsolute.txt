@@ -1,0 +1,16 @@
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\proje1CSharp\proje1CSharp\bin\Debug\net5.0\proje1CSharp.exe
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\proje1CSharp\proje1CSharp\bin\Debug\net5.0\proje1CSharp.deps.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\proje1CSharp\proje1CSharp\bin\Debug\net5.0\proje1CSharp.runtimeconfig.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\proje1CSharp\proje1CSharp\bin\Debug\net5.0\proje1CSharp.runtimeconfig.dev.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\proje1CSharp\proje1CSharp\bin\Debug\net5.0\proje1CSharp.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\proje1CSharp\proje1CSharp\bin\Debug\net5.0\ref\proje1CSharp.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\proje1CSharp\proje1CSharp\bin\Debug\net5.0\proje1CSharp.pdb
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\proje1CSharp\proje1CSharp\obj\Debug\net5.0\proje1CSharp.csproj.AssemblyReference.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\proje1CSharp\proje1CSharp\obj\Debug\net5.0\proje1CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\proje1CSharp\proje1CSharp\obj\Debug\net5.0\proje1CSharp.AssemblyInfoInputs.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\proje1CSharp\proje1CSharp\obj\Debug\net5.0\proje1CSharp.AssemblyInfo.cs
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\proje1CSharp\proje1CSharp\obj\Debug\net5.0\proje1CSharp.csproj.CoreCompileInputs.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\proje1CSharp\proje1CSharp\obj\Debug\net5.0\proje1CSharp.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\proje1CSharp\proje1CSharp\obj\Debug\net5.0\ref\proje1CSharp.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\proje1CSharp\proje1CSharp\obj\Debug\net5.0\proje1CSharp.pdb
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\proje1CSharp\proje1CSharp\obj\Debug\net5.0\proje1CSharp.genruntimeconfig.cache

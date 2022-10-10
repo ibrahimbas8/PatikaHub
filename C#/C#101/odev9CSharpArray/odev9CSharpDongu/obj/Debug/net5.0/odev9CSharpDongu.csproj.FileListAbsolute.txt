@@ -1,0 +1,5 @@
+C:\Users\basib\source\repos\odev9CSharpDongu\odev9CSharpDongu\obj\Debug\net5.0\odev9CSharpDongu.csproj.AssemblyReference.cache
+C:\Users\basib\source\repos\odev9CSharpDongu\odev9CSharpDongu\obj\Debug\net5.0\odev9CSharpDongu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basib\source\repos\odev9CSharpDongu\odev9CSharpDongu\obj\Debug\net5.0\odev9CSharpDongu.AssemblyInfoInputs.cache
+C:\Users\basib\source\repos\odev9CSharpDongu\odev9CSharpDongu\obj\Debug\net5.0\odev9CSharpDongu.AssemblyInfo.cs
+C:\Users\basib\source\repos\odev9CSharpDongu\odev9CSharpDongu\obj\Debug\net5.0\odev9CSharpDongu.csproj.CoreCompileInputs.cache

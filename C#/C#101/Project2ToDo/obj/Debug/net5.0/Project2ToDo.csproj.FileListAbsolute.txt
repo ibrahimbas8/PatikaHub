@@ -1,0 +1,16 @@
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#101\Project2ToDo\bin\Debug\net5.0\Project2ToDo.exe
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#101\Project2ToDo\bin\Debug\net5.0\Project2ToDo.deps.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#101\Project2ToDo\bin\Debug\net5.0\Project2ToDo.runtimeconfig.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#101\Project2ToDo\bin\Debug\net5.0\Project2ToDo.runtimeconfig.dev.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#101\Project2ToDo\bin\Debug\net5.0\Project2ToDo.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#101\Project2ToDo\bin\Debug\net5.0\ref\Project2ToDo.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#101\Project2ToDo\bin\Debug\net5.0\Project2ToDo.pdb
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#101\Project2ToDo\obj\Debug\net5.0\Project2ToDo.csproj.AssemblyReference.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#101\Project2ToDo\obj\Debug\net5.0\Project2ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#101\Project2ToDo\obj\Debug\net5.0\Project2ToDo.AssemblyInfoInputs.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#101\Project2ToDo\obj\Debug\net5.0\Project2ToDo.AssemblyInfo.cs
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#101\Project2ToDo\obj\Debug\net5.0\Project2ToDo.csproj.CoreCompileInputs.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#101\Project2ToDo\obj\Debug\net5.0\Project2ToDo.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#101\Project2ToDo\obj\Debug\net5.0\ref\Project2ToDo.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#101\Project2ToDo\obj\Debug\net5.0\Project2ToDo.pdb
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\C#101\Project2ToDo\obj\Debug\net5.0\Project2ToDo.genruntimeconfig.cache

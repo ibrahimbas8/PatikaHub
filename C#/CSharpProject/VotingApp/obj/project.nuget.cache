@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ytsr2k05jsA3DAZwgX9TzFQqZMoIYQnKttS0FhxPKyMYSv5t2Qb3PZtI/A8WK/eUjAsndWsUUGt/BPad9bs9JQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\basib\\OneDrive\\Masaüstü\\kodlama\\PATİKA\\C#\\CSharpProject\\VotingApp\\VotingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\basib\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

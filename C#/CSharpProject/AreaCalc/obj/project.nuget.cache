@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9B19OAK3qrt1OUa8Jm5KsaShJtxLgtc984d5NoumiiRENiLoBJhRq4m7eKZW0V1ScmzOlL3wxRg5/YXYo/Dtag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\basib\\OneDrive\\Masaüstü\\kodlama\\PATİKA\\C#\\C#Project\\AreaCalc\\AreaCalc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\basib\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

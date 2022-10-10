@@ -1,0 +1,16 @@
+C:\Users\basib\source\repos\odev10CSharpArray\odev10CSharpArray\bin\Debug\net5.0\odev10CSharpArray.exe
+C:\Users\basib\source\repos\odev10CSharpArray\odev10CSharpArray\bin\Debug\net5.0\odev10CSharpArray.deps.json
+C:\Users\basib\source\repos\odev10CSharpArray\odev10CSharpArray\bin\Debug\net5.0\odev10CSharpArray.runtimeconfig.json
+C:\Users\basib\source\repos\odev10CSharpArray\odev10CSharpArray\bin\Debug\net5.0\odev10CSharpArray.runtimeconfig.dev.json
+C:\Users\basib\source\repos\odev10CSharpArray\odev10CSharpArray\bin\Debug\net5.0\odev10CSharpArray.dll
+C:\Users\basib\source\repos\odev10CSharpArray\odev10CSharpArray\bin\Debug\net5.0\ref\odev10CSharpArray.dll
+C:\Users\basib\source\repos\odev10CSharpArray\odev10CSharpArray\bin\Debug\net5.0\odev10CSharpArray.pdb
+C:\Users\basib\source\repos\odev10CSharpArray\odev10CSharpArray\obj\Debug\net5.0\odev10CSharpArray.csproj.AssemblyReference.cache
+C:\Users\basib\source\repos\odev10CSharpArray\odev10CSharpArray\obj\Debug\net5.0\odev10CSharpArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basib\source\repos\odev10CSharpArray\odev10CSharpArray\obj\Debug\net5.0\odev10CSharpArray.AssemblyInfoInputs.cache
+C:\Users\basib\source\repos\odev10CSharpArray\odev10CSharpArray\obj\Debug\net5.0\odev10CSharpArray.AssemblyInfo.cs
+C:\Users\basib\source\repos\odev10CSharpArray\odev10CSharpArray\obj\Debug\net5.0\odev10CSharpArray.csproj.CoreCompileInputs.cache
+C:\Users\basib\source\repos\odev10CSharpArray\odev10CSharpArray\obj\Debug\net5.0\odev10CSharpArray.dll
+C:\Users\basib\source\repos\odev10CSharpArray\odev10CSharpArray\obj\Debug\net5.0\ref\odev10CSharpArray.dll
+C:\Users\basib\source\repos\odev10CSharpArray\odev10CSharpArray\obj\Debug\net5.0\odev10CSharpArray.pdb
+C:\Users\basib\source\repos\odev10CSharpArray\odev10CSharpArray\obj\Debug\net5.0\odev10CSharpArray.genruntimeconfig.cache

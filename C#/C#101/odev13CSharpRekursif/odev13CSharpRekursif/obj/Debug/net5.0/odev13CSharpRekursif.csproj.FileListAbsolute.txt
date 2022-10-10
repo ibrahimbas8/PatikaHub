@@ -1,0 +1,16 @@
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev13CSharpRekursif\odev13CSharpRekursif\bin\Debug\net5.0\odev13CSharpRekursif.exe
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev13CSharpRekursif\odev13CSharpRekursif\bin\Debug\net5.0\odev13CSharpRekursif.deps.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev13CSharpRekursif\odev13CSharpRekursif\bin\Debug\net5.0\odev13CSharpRekursif.runtimeconfig.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev13CSharpRekursif\odev13CSharpRekursif\bin\Debug\net5.0\odev13CSharpRekursif.runtimeconfig.dev.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev13CSharpRekursif\odev13CSharpRekursif\bin\Debug\net5.0\odev13CSharpRekursif.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev13CSharpRekursif\odev13CSharpRekursif\bin\Debug\net5.0\ref\odev13CSharpRekursif.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev13CSharpRekursif\odev13CSharpRekursif\bin\Debug\net5.0\odev13CSharpRekursif.pdb
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev13CSharpRekursif\odev13CSharpRekursif\obj\Debug\net5.0\odev13CSharpRekursif.csproj.AssemblyReference.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev13CSharpRekursif\odev13CSharpRekursif\obj\Debug\net5.0\odev13CSharpRekursif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev13CSharpRekursif\odev13CSharpRekursif\obj\Debug\net5.0\odev13CSharpRekursif.AssemblyInfoInputs.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev13CSharpRekursif\odev13CSharpRekursif\obj\Debug\net5.0\odev13CSharpRekursif.AssemblyInfo.cs
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev13CSharpRekursif\odev13CSharpRekursif\obj\Debug\net5.0\odev13CSharpRekursif.csproj.CoreCompileInputs.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev13CSharpRekursif\odev13CSharpRekursif\obj\Debug\net5.0\odev13CSharpRekursif.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev13CSharpRekursif\odev13CSharpRekursif\obj\Debug\net5.0\ref\odev13CSharpRekursif.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev13CSharpRekursif\odev13CSharpRekursif\obj\Debug\net5.0\odev13CSharpRekursif.pdb
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PatikaCSharp101\odev13CSharpRekursif\odev13CSharpRekursif\obj\Debug\net5.0\odev13CSharpRekursif.genruntimeconfig.cache

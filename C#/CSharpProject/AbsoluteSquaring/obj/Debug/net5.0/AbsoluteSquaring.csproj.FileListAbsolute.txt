@@ -1,0 +1,15 @@
+C:\Users\basib\source\repos\AbsoluteSquaring\bin\Debug\net5.0\AbsoluteSquaring.exe
+C:\Users\basib\source\repos\AbsoluteSquaring\bin\Debug\net5.0\AbsoluteSquaring.deps.json
+C:\Users\basib\source\repos\AbsoluteSquaring\bin\Debug\net5.0\AbsoluteSquaring.runtimeconfig.json
+C:\Users\basib\source\repos\AbsoluteSquaring\bin\Debug\net5.0\AbsoluteSquaring.runtimeconfig.dev.json
+C:\Users\basib\source\repos\AbsoluteSquaring\bin\Debug\net5.0\AbsoluteSquaring.dll
+C:\Users\basib\source\repos\AbsoluteSquaring\bin\Debug\net5.0\ref\AbsoluteSquaring.dll
+C:\Users\basib\source\repos\AbsoluteSquaring\bin\Debug\net5.0\AbsoluteSquaring.pdb
+C:\Users\basib\source\repos\AbsoluteSquaring\obj\Debug\net5.0\AbsoluteSquaring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basib\source\repos\AbsoluteSquaring\obj\Debug\net5.0\AbsoluteSquaring.AssemblyInfoInputs.cache
+C:\Users\basib\source\repos\AbsoluteSquaring\obj\Debug\net5.0\AbsoluteSquaring.AssemblyInfo.cs
+C:\Users\basib\source\repos\AbsoluteSquaring\obj\Debug\net5.0\AbsoluteSquaring.csproj.CoreCompileInputs.cache
+C:\Users\basib\source\repos\AbsoluteSquaring\obj\Debug\net5.0\AbsoluteSquaring.dll
+C:\Users\basib\source\repos\AbsoluteSquaring\obj\Debug\net5.0\ref\AbsoluteSquaring.dll
+C:\Users\basib\source\repos\AbsoluteSquaring\obj\Debug\net5.0\AbsoluteSquaring.pdb
+C:\Users\basib\source\repos\AbsoluteSquaring\obj\Debug\net5.0\AbsoluteSquaring.genruntimeconfig.cache

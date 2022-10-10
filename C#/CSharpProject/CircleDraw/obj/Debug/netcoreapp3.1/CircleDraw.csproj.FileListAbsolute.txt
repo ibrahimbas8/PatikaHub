@@ -1,0 +1,14 @@
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\CircleDraw\bin\Debug\netcoreapp3.1\CircleDraw.exe
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\CircleDraw\bin\Debug\netcoreapp3.1\CircleDraw.deps.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\CircleDraw\bin\Debug\netcoreapp3.1\CircleDraw.runtimeconfig.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\CircleDraw\bin\Debug\netcoreapp3.1\CircleDraw.runtimeconfig.dev.json
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\CircleDraw\bin\Debug\netcoreapp3.1\CircleDraw.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\CircleDraw\bin\Debug\netcoreapp3.1\CircleDraw.pdb
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\CircleDraw\obj\Debug\netcoreapp3.1\CircleDraw.csproj.AssemblyReference.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\CircleDraw\obj\Debug\netcoreapp3.1\CircleDraw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\CircleDraw\obj\Debug\netcoreapp3.1\CircleDraw.AssemblyInfoInputs.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\CircleDraw\obj\Debug\netcoreapp3.1\CircleDraw.AssemblyInfo.cs
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\CircleDraw\obj\Debug\netcoreapp3.1\CircleDraw.csproj.CoreCompileInputs.cache
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\CircleDraw\obj\Debug\netcoreapp3.1\CircleDraw.dll
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\CircleDraw\obj\Debug\netcoreapp3.1\CircleDraw.pdb
+C:\Users\basib\OneDrive\Masaüstü\kodlama\C#Project\CircleDraw\obj\Debug\netcoreapp3.1\CircleDraw.genruntimeconfig.cache
