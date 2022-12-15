@@ -1,0 +1,71 @@
+﻿@model IEnumerable<InvoiceManagementSystem.Models.WaterBill>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<h1>Index</h1>
+
+<h3>@ViewBag.userName @ViewBag.lastName fatura borcunuz varsa lütfen ödeyiniz</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.WaterBillSerialNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WaterBillSequenceNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WaterBillCompanyName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WaterBillPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WaterBillDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WaterBillDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WaterBillStatus)
+            </th>
+            <th>Ödeme Bölümü</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.WaterBillSerialNumber)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.WaterBillSequenceNo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.WaterBillCompanyName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.WaterBillPrice)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.WaterBillDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.WaterBillDescription)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.WaterBillStatus)
+                </td>
+                <td>
+                    <a asp-action="Pay" class="btn btn-success">Öde</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

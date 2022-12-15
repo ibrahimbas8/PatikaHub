@@ -1,0 +1,65 @@
+﻿@model InvoiceManagementSystem.Models.NaturalGasBill
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Create</h1>
+
+<h4>NaturalGasBill</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="NaturalGasBillSerialNumber" class="control-label"></label>
+                <input asp-for="NaturalGasBillSerialNumber" class="form-control" />
+                <span asp-validation-for="NaturalGasBillSerialNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NaturalGasBillSequenceNo" class="control-label"></label>
+                <input asp-for="NaturalGasBillSequenceNo" class="form-control" />
+                <span asp-validation-for="NaturalGasBillSequenceNo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NaturalGasBillCompanyName" class="control-label"></label>
+                <input asp-for="NaturalGasBillCompanyName" class="form-control" />
+                <span asp-validation-for="NaturalGasBillCompanyName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NaturalGasBillPrice" class="control-label"></label>
+                <input asp-for="NaturalGasBillPrice" class="form-control" />
+                <span asp-validation-for="NaturalGasBillPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NaturalGasBillDate" class="control-label"></label>
+                <input asp-for="NaturalGasBillDate" class="form-control" />
+                <span asp-validation-for="NaturalGasBillDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NaturalGasBilllDescription" class="control-label"></label>
+                <input asp-for="NaturalGasBilllDescription" class="form-control" />
+                <span asp-validation-for="NaturalGasBilllDescription" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="NaturalGasBillStatus" /> @Html.DisplayNameFor(model => model.NaturalGasBillStatus)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="UserID" class="control-label"></label>
+                <select asp-for="UserID" class ="form-control" asp-items="ViewBag.UserID"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

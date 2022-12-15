@@ -1,0 +1,78 @@
+﻿@model IEnumerable<InvoiceManagementSystem.Models.ElectricityBill>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ElectricityBillSerialNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ElectricityBillSequenceNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ElectricityBillCompanyName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ElectricityBillPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ElectricityBillDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ElectricityBillDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ElectricityBillStatus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.User)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ElectricityBillSerialNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ElectricityBillSequenceNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ElectricityBillCompanyName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ElectricityBillPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ElectricityBillDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ElectricityBillDescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ElectricityBillStatus)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.User.UserId)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ElectricityBillID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ElectricityBillID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ElectricityBillID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

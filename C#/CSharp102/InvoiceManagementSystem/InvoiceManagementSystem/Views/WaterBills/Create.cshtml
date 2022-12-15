@@ -1,0 +1,65 @@
+﻿@model InvoiceManagementSystem.Models.WaterBill
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Create</h1>
+
+<h4>WaterBill</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="WaterBillSerialNumber" class="control-label"></label>
+                <input asp-for="WaterBillSerialNumber" class="form-control" />
+                <span asp-validation-for="WaterBillSerialNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="WaterBillSequenceNo" class="control-label"></label>
+                <input asp-for="WaterBillSequenceNo" class="form-control" />
+                <span asp-validation-for="WaterBillSequenceNo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="WaterBillCompanyName" class="control-label"></label>
+                <input asp-for="WaterBillCompanyName" class="form-control" />
+                <span asp-validation-for="WaterBillCompanyName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="WaterBillPrice" class="control-label"></label>
+                <input asp-for="WaterBillPrice" class="form-control" />
+                <span asp-validation-for="WaterBillPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="WaterBillDate" class="control-label"></label>
+                <input asp-for="WaterBillDate" class="form-control" />
+                <span asp-validation-for="WaterBillDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="WaterBillDescription" class="control-label"></label>
+                <input asp-for="WaterBillDescription" class="form-control" />
+                <span asp-validation-for="WaterBillDescription" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="WaterBillStatus" /> @Html.DisplayNameFor(model => model.WaterBillStatus)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="UserID" class="control-label"></label>
+                <select asp-for="UserID" class ="form-control" asp-items="ViewBag.UserID"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

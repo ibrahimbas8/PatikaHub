@@ -1,0 +1,70 @@
+﻿@model IEnumerable<InvoiceManagementSystem.Models.ElectricityBill>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+<h1>Index</h1>
+
+<h3>@ViewBag.userName @ViewBag.lastName fatura borcunuz varsa lütfen ödeyiniz</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ElectricityBillSerialNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ElectricityBillSequenceNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ElectricityBillCompanyName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ElectricityBillPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ElectricityBillDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ElectricityBillDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ElectricityBillStatus)
+            </th>
+            <th>Ödeme Bölümü</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ElectricityBillSerialNumber)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ElectricityBillSequenceNo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ElectricityBillCompanyName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ElectricityBillPrice)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ElectricityBillDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ElectricityBillDescription)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ElectricityBillStatus)
+                </td>
+                <td>
+                    <a asp-action="Pay" class="btn btn-success">Öde</a>
+                </td>
+                
+            </tr>
+        }
+    </tbody>
+</table>
