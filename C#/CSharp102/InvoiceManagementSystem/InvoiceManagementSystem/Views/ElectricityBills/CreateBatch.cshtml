@@ -1,0 +1,60 @@
+﻿@model InvoiceManagementSystem.Models.ElectricityBill
+
+@{
+    ViewData["Title"] = "CreateBatch";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="text-center">
+    <h1>Toplu Elektrik Faturası Oluştur</h1>
+</div>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="CreateBatch">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ElectricityBillSerialNumber" class="control-label"></label>
+                <input asp-for="ElectricityBillSerialNumber" class="form-control" />
+                <span asp-validation-for="ElectricityBillSerialNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ElectricityBillSequenceNo" class="control-label"></label>
+                <input asp-for="ElectricityBillSequenceNo" class="form-control" />
+                <span asp-validation-for="ElectricityBillSequenceNo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ElectricityBillCompanyName" class="control-label"></label>
+                <input asp-for="ElectricityBillCompanyName" class="form-control" />
+                <span asp-validation-for="ElectricityBillCompanyName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ElectricityBillPrice" class="control-label"></label>
+                <input asp-for="ElectricityBillPrice" class="form-control" />
+                <span asp-validation-for="ElectricityBillPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ElectricityBillDate" class="control-label"></label>
+                <input asp-for="ElectricityBillDate" class="form-control" />
+                <span asp-validation-for="ElectricityBillDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ElectricityBillDescription" class="control-label"></label>
+                <input asp-for="ElectricityBillDescription" class="form-control" />
+                <span asp-validation-for="ElectricityBillDescription" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="ElectricityBillStatus" /> @Html.DisplayNameFor(model => model.ElectricityBillStatus)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Oluştur" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Listeye Geri Dön</a>
+</div>

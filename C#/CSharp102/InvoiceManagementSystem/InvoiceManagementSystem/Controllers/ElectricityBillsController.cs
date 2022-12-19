@@ -71,7 +71,30 @@ namespace InvoiceManagementSystem.Controllers
             ViewData["UserID"] = new SelectList(_context.Set<User>(), "UserId", "UserId", electricityBill.UserID);
             return View(electricityBill);
         }
+        [HttpGet]
+        public IActionResult CreateBatch()
+        {
+            return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> CreateBatch([Bind("ElectricityBillSerialNumber,ElectricityBillSequenceNo,ElectricityBillCompanyName,ElectricityBillPrice,ElectricityBillDate,ElectricityBillDescription,ElectricityBillStatus")] ElectricityBill electricityBill)
+        {
+            if (ModelState.IsValid)
+            {
+                var userList = await _context.Users.ToListAsync();
+                var electricityBillList = new List<ElectricityBill>();
+                foreach (var user in userList)
+                {
+                    electricityBillList.Add(new ElectricityBill { ElectricityBillSerialNumber = electricityBill.ElectricityBillSerialNumber, ElectricityBillDate = electricityBill.ElectricityBillDate, ElectricityBillDescription = electricityBill.ElectricityBillDescription, ElectricityBillStatus = electricityBill.ElectricityBillStatus, ElectricityBillSequenceNo = electricityBill.ElectricityBillSequenceNo, ElectricityBillCompanyName = electricityBill.ElectricityBillCompanyName, ElectricityBillPrice = electricityBill.ElectricityBillPrice, UserID = user.UserId });
+                }
+                await _context.ElectricityBills.AddRangeAsync(electricityBillList);
+                await _context.SaveChangesAsync();
 
+                return RedirectToAction(nameof(Index));
+            }
+
+            return View();
+        }
         // GET: ElectricityBills/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {

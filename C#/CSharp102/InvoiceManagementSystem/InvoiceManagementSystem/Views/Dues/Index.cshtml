@@ -4,11 +4,11 @@
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_AdminLayout.cshtml";
 }
-
-<h1>Index</h1>
-
+    
+<h1>Aidat Bölümü</h1>
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create" class="btn btn-outline-success">Yeni Oluştur</a>
+    <a asp-action="CreateBatch" class="btn btn-outline-primary">Toplu Ödeme Oluştur</a>
 </p>
 <table class="table">
     <thead>
@@ -50,9 +50,9 @@
                 @Html.DisplayFor(modelItem => item.User.UserId)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.DuesID">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.DuesID">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.DuesID">Delete</a>
+                <a asp-action="Edit" asp-route-id="@item.DuesID">Düzenle</a> |
+                <a asp-action="Details" asp-route-id="@item.DuesID">Detaylar</a> |
+                <a asp-action="Delete" asp-route-id="@item.DuesID">Sil</a>
             </td>
         </tr>
 }

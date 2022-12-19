@@ -1,0 +1,32 @@
+﻿@model InvoiceManagementSystem.Models.Message
+
+@{
+    ViewData["Title"] = "Send";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="text-center">
+    <h2>Mesaj Gönderme Kutusu</h2>
+    <h3>Buradan Kullanıcılara duyuru gönderebilirsiniz...</h3>
+</div>
+
+<div class="row">
+    <div class="col-md-4 offset-md-4">
+        <form asp-action="Send">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Subject" class="control-label"></label>
+                <input asp-for="Subject" class="form-control" />
+                <span asp-validation-for="Subject" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label class="col-sm-2 col-form-label">Mesajınız:</label>
+                <textarea class="form-control" name="MessageDetails" rows="4" cols="10"></textarea>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Mesaj Gönder" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>

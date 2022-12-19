@@ -71,7 +71,30 @@ namespace InvoiceManagementSystem.Controllers
             ViewData["UserID"] = new SelectList(_context.Set<User>(), "UserId", "UserId", naturalGasBill.UserID);
             return View(naturalGasBill);
         }
+        [HttpGet]
+        public IActionResult CreateBatch()
+        {
+            return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> CreateBatch([Bind("NaturalGasBillSerialNumber,NaturalGasBillSequenceNo,NaturalGasBillCompanyName,NaturalGasBillPrice,NaturalGasBillDate,NaturalGasBilllDescription,NaturalGasBillStatus")] NaturalGasBill naturalGasBill)
+        {
+            if (ModelState.IsValid)
+            {
+                var userList = await _context.Users.ToListAsync();
+                var naturalGasBillList = new List<NaturalGasBill>();
+                foreach (var user in userList)
+                {
+                    naturalGasBillList.Add(new NaturalGasBill { NaturalGasBillSerialNumber = naturalGasBill.NaturalGasBillSerialNumber, NaturalGasBillSequenceNo = naturalGasBill.NaturalGasBillSequenceNo, NaturalGasBillCompanyName = naturalGasBill.NaturalGasBillCompanyName, NaturalGasBillPrice = naturalGasBill.NaturalGasBillPrice, NaturalGasBillDate = naturalGasBill.NaturalGasBillDate, NaturalGasBilllDescription = naturalGasBill.NaturalGasBilllDescription, NaturalGasBillStatus = naturalGasBill.NaturalGasBillStatus, UserID = user.UserId });
+                }
+                await _context.NaturalGasBills.AddRangeAsync(naturalGasBillList);
+                await _context.SaveChangesAsync();
 
+                return RedirectToAction(nameof(Index));
+            }
+
+            return View();
+        }
         // GET: NaturalGasBills/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {

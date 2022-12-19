@@ -142,7 +142,6 @@ C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\CSharp102\InvoiceManagemen
 C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\CSharp102\InvoiceManagementSystem\InvoiceManagementSystem\obj\Debug\net5.0\InvoiceManagementSystem.genruntimeconfig.cache
 C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\CSharp102\InvoiceManagementSystem\InvoiceManagementSystem\obj\Debug\net5.0\ref\InvoiceManagementSystem.dll
 C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\CSharp102\InvoiceManagementSystem\InvoiceManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\CSharp102\InvoiceManagementSystem\InvoiceManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\CSharp102\InvoiceManagementSystem\InvoiceManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
 C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\CSharp102\InvoiceManagementSystem\InvoiceManagementSystem\obj\Debug\net5.0\Razor\Views\Admins\Create.cshtml.g.cs
 C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\CSharp102\InvoiceManagementSystem\InvoiceManagementSystem\obj\Debug\net5.0\Razor\Views\Admins\Delete.cshtml.g.cs
@@ -189,4 +188,11 @@ C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\CSharp102\InvoiceManagemen
 C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\CSharp102\InvoiceManagementSystem\InvoiceManagementSystem\obj\Debug\net5.0\Razor\Views\Login\Logout.cshtml.g.cs
 C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\CSharp102\InvoiceManagementSystem\InvoiceManagementSystem\obj\Debug\net5.0\Razor\Views\UserMessage\Send.cshtml.g.cs
 C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\CSharp102\InvoiceManagementSystem\InvoiceManagementSystem\obj\Debug\net5.0\Razor\Views\AdminMessage\Inbox.cshtml.g.cs
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\CSharp102\InvoiceManagementSystem\InvoiceManagementSystem\obj\Debug\net5.0\Razor\Views\Error\Index.cshtml.g.cs
 C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\CSharp102\InvoiceManagementSystem\InvoiceManagementSystem\obj\Debug\net5.0\Razor\Views\AdminMessage\Send.cshtml.g.cs
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\CSharp102\InvoiceManagementSystem\InvoiceManagementSystem\obj\Debug\net5.0\Razor\Views\UserMessage\Inbox.cshtml.g.cs
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\CSharp102\InvoiceManagementSystem\InvoiceManagementSystem\obj\Debug\net5.0\Razor\Views\Dues\CreateBatch.cshtml.g.cs
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\CSharp102\InvoiceManagementSystem\InvoiceManagementSystem\obj\Debug\net5.0\Razor\Views\ElectricityBills\CreateBatch.cshtml.g.cs
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\CSharp102\InvoiceManagementSystem\InvoiceManagementSystem\obj\Debug\net5.0\Razor\Views\NaturalGasBills\CreateBatch.cshtml.g.cs
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\CSharp102\InvoiceManagementSystem\InvoiceManagementSystem\obj\Debug\net5.0\Razor\Views\WaterBills\CreateBatch.cshtml.g.cs
+C:\Users\basib\OneDrive\Masaüstü\kodlama\PATİKA\C#\CSharp102\InvoiceManagementSystem\InvoiceManagementSystem\obj\Debug\net5.0\Razor\Views\Payment\Index.cshtml.g.cs

@@ -71,7 +71,30 @@ namespace InvoiceManagementSystem.Controllers
             ViewData["UserID"] = new SelectList(_context.Users, "UserId", "UserId", waterBill.UserID);
             return View(waterBill);
         }
+        [HttpGet]
+        public IActionResult CreateBatch()
+        {
+            return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> CreateBatch([Bind("WaterBillSerialNumber,WaterBillSequenceNo,WaterBillCompanyName,WaterBillPrice,WaterBillDate,WaterBillDescription,WaterBillStatus")] WaterBill waterBill)
+        {
+            if (ModelState.IsValid)
+            {
+                var userList = await _context.Users.ToListAsync();
+                var waterBillList = new List<WaterBill>();
+                foreach (var user in userList)
+                {
+                    waterBillList.Add(new WaterBill { WaterBillSerialNumber = waterBill.WaterBillSerialNumber, WaterBillSequenceNo = waterBill.WaterBillSequenceNo, WaterBillCompanyName = waterBill.WaterBillCompanyName, WaterBillPrice = waterBill.WaterBillPrice, WaterBillDate = waterBill.WaterBillDate, WaterBillDescription = waterBill.WaterBillDescription, WaterBillStatus = waterBill.WaterBillStatus, UserID = user.UserId });
+                }
+                await _context.WaterBills.AddRangeAsync(waterBillList);
+                await _context.SaveChangesAsync();
 
+                return RedirectToAction(nameof(Index));
+            }
+
+            return View();
+        }
         // GET: WaterBills/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {

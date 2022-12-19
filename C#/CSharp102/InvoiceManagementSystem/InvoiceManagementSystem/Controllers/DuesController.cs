@@ -159,5 +159,30 @@ namespace InvoiceManagementSystem.Controllers
         {
             return _context.Dues.Any(e => e.DuesID == id);
         }
+
+        [HttpGet]
+        public IActionResult CreateBatch()
+        {
+            return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> CreateBatch([Bind("Price,Date,Description,Status")] Dues dues)
+        {
+            if (!ModelState.IsValid)
+            {
+                var userList = await _context.Users.ToListAsync();
+                var duesList = new List<Dues>();
+                foreach (var user in userList)
+                {
+                    duesList.Add(new Dues { Price = dues.Price, Date = dues.Date, Description = dues.Description, Status = dues.Status, UserID= user.UserId });
+                }
+                await _context.Dues.AddRangeAsync(duesList);
+                await _context.SaveChangesAsync();
+
+                return RedirectToAction("Index", "Dues");
+            }
+
+            return View();
+        }
     }
 }

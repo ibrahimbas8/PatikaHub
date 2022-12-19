@@ -18,6 +18,16 @@ namespace InvoiceManagementSystem.Controllers
         {
             _context = context;
         }
+        public async Task<IActionResult> Inbox()
+        {
+            var userName = User.Identity.Name;
+            var loginUser = _context.Logins.FirstOrDefault(x => x.UserName == userName);
+            var userId = loginUser.UserId;
+            ViewData["sender"] = "Admin";
+            var userMessageList =await _context.Messages.Where(user => user.ReceiverID ==userId ).ToListAsync();
+            return View(userMessageList);
+        }
+
         [HttpGet]
         public IActionResult Send()
         {
@@ -31,7 +41,9 @@ namespace InvoiceManagementSystem.Controllers
             var userId = loginUser.UserId;
 
             message.SenderID = userId;
+            message.SenderUser = await _context.Logins.FirstOrDefaultAsync(x => x.UserId == message.SenderID);
             message.ReceiverID = 3;//admin
+            message.ReceiverUser = await _context.Logins.FirstOrDefaultAsync(x => x.UserId == message.ReceiverID);
             if (ModelState.IsValid)
             {
                 _context.Messages.Add(message);
